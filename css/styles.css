@@ -1,3 +1,114 @@
-:root {
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
+
+body{
+    font-family:'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: azure;
+    background-color: rgb(35, 37, 49);
+}
+
+header{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+header h1{
+    font-size: 4em;
+    margin: 0;
+}
+header p{
+    font-size: 1.5em;
+}
+nav{
+    background-color: rgb(29, 30, 40);
+    width: 100%;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+nav ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+nav ul li{
+    margin: 0 15px;
+}
+nav ul li a{
+    color: azure;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    
+    
+}
+section{
+    padding: 50px 20px;
+}
+.games{
+    background-color: rgb(29, 30, 40);
+}
+.games h2{
+    text-align: center;
+}
+.games-grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 60px;
+}
+.game{
+    background-color: rgb(37, 39, 51);
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+}
+.game img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+.contact{
+    background-color: rgb(35, 37, 49);
+    text-align: center;
+}
+.contact form{
+    max-width: 600px;
+    margin: 0 auto;
+}
+.contact input, .contact textarea{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: none;
+}
+.contact button{
+    padding: 15px 30px;
+    background-color: #97bee0;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+footer{
+    background-color: rgb(29, 30, 40);
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+}
+footer p {
+    margin: 0;
+}
+footer a {
+    color: #97bee0;
+    text-decoration: none;
 }
