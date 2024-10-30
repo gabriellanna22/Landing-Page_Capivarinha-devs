@@ -19,7 +19,7 @@ A landing page foi projetada para apresentar o estúdio, seus jogos e novidades.
 ```plaintext
 capivarinha-devs-landing-page/
 │
-├── index.html          # Página principal
+├── home.html           # Página principal
 ├── css/                # Estilos CSS
 │   └── styles.css      # Folha de estilos principal
 ├── js/                 # Scripts JavaScript
