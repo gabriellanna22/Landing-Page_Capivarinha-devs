@@ -1,61 +1,54 @@
 # Capivarinha DEV'S - Landing Page
 
-Bem-vindo ao repositório da Landing Page do **Capivarinha DEV'S**, um estúdio de jogos indie dedicado a criar experiências únicas e envolventes!
+Welcome to the **Capivarinha DEV'S** Landing Page repository, an indie game studio dedicated to creating unique and engaging experiences!
 
-## Sobre o Projeto
+## About the Project
 
-A landing page foi projetada para apresentar o estúdio, seus jogos e novidades. O objetivo é atrair jogadores e entusiastas de jogos indie, oferecendo uma visão clara da nossa missão e dos projetos em andamento.
+The landing page was designed to showcase the studio, its games, and news. The goal is to attract players and indie game enthusiasts by providing a clear view of our mission and ongoing projects.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **HTML5**: Estrutura da página.
-- **CSS3**: Estilização e design responsivo.
-- **JavaScript**: Interatividade e animações.
-- **Bootstrap**: Framework para agilizar o desenvolvimento responsivo.
-- **Font Awesome**: Ícones para uma melhor visualização.
+- **HTML5**: Page structure.
+- **CSS3**: Styling and responsive design.
+- **JavaScript**: Interactivity and animations.
+- **Bootstrap**: Framework to speed up responsive development.
+- **Font Awesome**: Icons for better visualization.
 
-## Estrutura do Projeto
+## Project Structure
 
 ```plaintext
 capivarinha-devs-landing-page/
 │
-├── home.html           # Página principal
-├── css/                # Estilos CSS
-│   └── styles.css      # Folha de estilos principal
-├── js/                 # Scripts JavaScript
-│   └── main.js         # Script principal
-├── img/                # Imagens e ícones
-│   └── logo.png        # Logo do estúdio
-└── README.md           # Documentação do projeto
-```
+├── home.html           # Main page
+├── css/                # CSS styles
+│   └── styles.css      # Main stylesheet
+├── js/                 # JavaScript scripts
+│   └── main.js         # Main script
+├── img/                # Images and icons
+│   └── logo.png        # Studio logo
+└── README.md           # Project documentation
+## How to Run the Project
 
-## Como Rodar o Projeto
-
-1. Clone este repositório:
+1. Clone this repository:
    ```bash
    git clone https://github.com/seu-usuario/capivarinha-devs-landing-page.git
    ```
-2. Navegue até a pasta do projeto:
+2. Navigate to the project folder:
    ```bash
    cd capivarinha-devs-landing-page
    ```
-3. Abra o arquivo `index.html` em um navegador de sua escolha.
+3. Open the index.html file in a browser of your choice.
 
-## Funcionalidades
+# Features
+- Sections for showcasing the studio and games
+- Contact form
+- Links to social media
+- Responsive design
 
-- Seções para apresentação do estúdio e jogos
-- Formulário de contato
-- Links para redes sociais
-- Design responsivo
+# Contributions
+Contributions are welcome! Feel free to open issues or pull requests.
 
-## Contribuições
+# License
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
-
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Esperamos que você goste da nossa landing page e fique ligado nas novidades do Capivarinha DEV'S! 🦙🎮
+We hope you enjoy our landing page and stay tuned for updates from Capivarinha DEV'S! 🦙🎮
