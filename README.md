@@ -1,4 +1,4 @@
-# Capivarinha DEV'S - Landing Page
+# Capivarinha DEV'S 🦫 - Landing Page
 
 Welcome to the **Capivarinha DEV'S** Landing Page repository, an indie game studio dedicated to creating unique and engaging experiences!
 
